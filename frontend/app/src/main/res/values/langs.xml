@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="lang_array">
+        <item>ar-SA</item>
+        <item>cs-CZ</item>
+        <item>de-DK</item>
+        <item>de-DE</item>
+        <item>el-GR</item>
+        <item>en-AU</item>
+        <item>en-GB</item>
+        <item>en-IE</item>
+        <item>en-US</item>
+        <item>en-ZA</item>
+        <item>es-ES</item>
+        <item>es-MX</item>
+        <item>fi-FI</item>
+        <item>fr-CA</item>
+        <item>fr-FR</item>
+        <item>he-IL</item>
+        <item>hi-IN</item>
+        <item>hu-HU</item>
+        <item>id-ID</item>
+        <item>it-IT</item>
+        <item>ja-JP</item>
+        <item>ko-KR</item>
+        <item>nl-BE</item>
+        <item>nl-NL</item>
+        <item>no-NO</item>
+        <item>pl-PL</item>
+        <item>pt-BR</item>
+        <item>pt-PT</item>
+        <item>ro-RO</item>
+        <item>ru-RU</item>
+        <item>sk-SK</item>
+        <item>sv-SE</item>
+        <item>th-TH</item>
+        <item>tr-TR</item>
+        <item>zh-CN</item>
+        <item>zh-HK</item>
+        <item>zh-HK</item>
+    </string-array>
+</resources>

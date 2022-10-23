@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/offlineRoomNameTextView"
+        android:layout_width="wrap_content"
+        tools:text="2022.06.12"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:layout_height="wrap_content"/>
+
+
+    <TextView
+        android:layout_marginTop="4dp"
+        android:id="@+id/offlineRoomPreviewTextView"
+        android:layout_width="wrap_content"
+        tools:text="날씨가 어떻습니까?"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

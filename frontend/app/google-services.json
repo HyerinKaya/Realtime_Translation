@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "985855150423",
+    "firebase_url": "https://realtimetranslation-febdb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "realtimetranslation-febdb",
+    "storage_bucket": "realtimetranslation-febdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985855150423:android:40d5be6a6182acf77d5612",
+        "android_client_info": {
+          "package_name": "com.jyh.realtimetranslation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985855150423-e9m905hrpkhqn0pktv7ssqu2apa12143.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jyh.realtimetranslation",
+            "certificate_hash": "7f0adf1303a99d3527fef660f401557404f52f61"
+          }
+        },
+        {
+          "client_id": "985855150423-gprttdakktcglk077q553mffd3ol4pkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGB4T7mr-MhZEVL9mfhpVx_uyFOVysMfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985855150423-gprttdakktcglk077q553mffd3ol4pkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
